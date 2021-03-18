@@ -10,7 +10,7 @@ var z int
 
 func main() {
 	// short declaration operator
-	// declare a variable and assign a value (of a certain type)
+	// DECLARE a variable and ASSIGN a value (of a certain type)
 	// cannot used outside function body
 	x := 42
 	fmt.Println(x)
