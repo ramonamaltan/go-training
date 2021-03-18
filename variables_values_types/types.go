@@ -16,6 +16,8 @@ type hotdog int
 
 var a hotdog
 
+var b int
+
 func main() {
 	fmt.Println(y)
 	fmt.Printf("%T\n", y)
