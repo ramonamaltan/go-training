@@ -6,6 +6,7 @@ import (
 
 func main() {
 	s := "Hello"
+	// or s := `Hello`
 	fmt.Println(s)
 	fmt.Printf("%T\n", s)
 
