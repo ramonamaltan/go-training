@@ -24,7 +24,7 @@ type person struct {
 	address string
 }
 
-// changeMe takes as arg a pointer to a person
+// changeMe takes as arg a pointer to a type person
 func changeMe(p *person) {
 	p.address = "Blane"
 }
